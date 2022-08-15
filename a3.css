@@ -1,0 +1,33 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+
+.heading
+{
+  background-color: white;
+  /*margin-top: 0px;*/
+	margin-right: 145px;
+ 	/*margin-left: 145px;*/
+ 	/*margin-bottom: 1px;*/
+ 	/*text-decoration-color: red;*/
+}/*
+.main
+{
+  background-color: white;
+	margin-top: 0px;
+  font-family: "Myriad Pro", Arial, Helvetica, sans-serif !important;
+	padding-right: 100px;
+	padding-left: 100px;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	margin-right: 145px;
+	margin-left: 145px;
+  
+}*/
+body
+{
+  background-color: #9E9E9E;
+}

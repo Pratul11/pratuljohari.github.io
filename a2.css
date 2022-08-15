@@ -1,0 +1,173 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+body
+{
+  background-color: #9E9E9E;
+}
+.heading
+{
+  background-color: white;
+  margin-top: 0px;
+  margin-right: 145px;
+  margin-left: 145px;
+  padding-bottom: 20px;
+  text-decoration-color: red;
+
+}
+.main
+{
+  background-color: white;
+  font-size: 18px;
+  font-family: "Myriad Pro", Arial, Helvetica, sans-serif !important;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding bottom: 30px;
+  
+  text-align: justify;
+  margin-right: 145px;
+  margin-left: 145px;
+  color: #747373;
+  
+}
+h2
+{
+  text-align: center;
+  font-size: 40px;
+  font-stretch: ultra-condensed;
+  height: 50px;
+  color: #414040;
+  font-family: sans-serif; 
+}
+
+h1 
+{
+  
+  font-family: Lucida Handwriting;
+  overflow: hidden;
+  text-align: left;
+  color: #98110F;
+}
+h1:before,h1:after 
+{
+  background-color: red;
+  content: "";
+  display: inline-block;
+  height: 3px;
+  position: relative;
+  vertical-align: baseline;
+  width: 62%;
+}
+h1:before 
+{
+  right: 0.5em;
+  margin-left: -50%;
+}
+h1:after 
+{
+  left: 0.5em;
+  margin-right: 20px;
+}
+
+ul 
+{
+  list-style-type: none;
+  margin-left: 40px;
+  padding-top: 20px;
+  overflow: hidden;
+  background-color: white;
+}
+li 
+{
+  float: right;
+}
+
+li a 
+{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 3px 5px;
+  text-decoration: none;
+}
+
+li a:hover 
+{
+  background-color: #25C7EE;
+}
+
+.active 
+{
+  background-color: #04AA6D;
+}
+
+.page .main .register
+{
+  text-align: center;
+}
+
+.page .main .register .btn
+{
+  
+  align-content: center;
+  padding: 8px 10px;
+  font-size: 28px;
+  margin-top: 32px;
+  background: red;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 15px; 
+  margin-bottom: 20px;
+}
+
+ .card
+{
+  padding-top: 25px;
+  padding-left: 12px;
+  padding-bottom: 20px;
+  margin-left: 145px;
+  float: left;
+  width: 38.25%;
+  background: #ff3033;
+  color: white;
+}
+
+ .card2
+{
+  padding-top: 25px;
+  padding-left: 12px;
+  padding-bottom: 20px;
+  margin-right: 145px;
+  float: left;
+  width: 38.45%;
+  background: #0E83B0;
+  color: white;
+}
+.page .row:after
+{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.pic
+{
+  margin-left: 145px;
+  margin-right: 145px;
+  background-color: white;
+  margin-top: 3px;
+}
+.insta
+{
+  
+  float: right;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 10px;
+}
+
+
+/*,#ff282c 66%,#2989d8 67%,#2989d8 67%,#7db9e8 100%*/
